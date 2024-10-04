@@ -14,4 +14,4 @@ For detailed documentation, please refer to the PDF below:
 - [View the PDF](https://github.com/Andrea-Graziano-Gitto/Ethical-Simulation-in-Autonomous-Driving_Andrea-Gitto_Simone-Piconese/blob/main/PDF%20Ethical-Simulation-in-Autonomous-Driving_Andrea-Gitto_Simone-Piconese.pdf)
 
 ## Preview
-![Ethical Simulation Preview](https://github.com/Andrea-Graziano-Gitto/In-The-Darkness-Horror-Game/blob/main/trailer.gif)
+![Ethical Simulation Preview](https://github.com/Andrea-Graziano-Gitto/Ethical-Simulation-in-Autonomous-Driving_Andrea-Gitto_Simone-Piconese/blob/main/JPG%20Ethical-Simulation-in-Autonomous-Driving_Andrea-Gitto_Simone-Piconese.jpg)

@@ -5,7 +5,8 @@
 - Piconese Simone: [LinkedIn](https://www.linkedin.com/in/simone-piconese-9b4a9924b/?originalSubdomain=it)
 
 ## Abstract:
-This study endeavors to develop an ethical simulator for an Artificial Intelligence (AI) system deployed in autonomous vehicles. The primary aim is to investigate the behavior of the AI in relation to the renowned ethical dilemma known as the "trolley problem." The simulation is designed to analyze the decision-making processes of the AI based on three pivotal variables: ethical value, the age of the individuals involved, and the AI’s preference between younger and older individuals.
+This study tackles the ethical challenges faced by autonomous vehicles, particularly in life or death decisions following a fatality. The central question is whether AI can make morally aligned decisions similar to human preferences, especially in scenarios like the "trolley problem." A rule based ethical simulator was developed to model these decisions, incorporating factors such as ethical value, age, and AI preferences for younger or older individuals. A survey of 150 participants compared human choices with AI decisions, revealing significant alignment between the two. These findings suggest that AI can be programmed to make decisions consistent with human ethical inclinations, advancing the development of ethically responsible autonomous driving systems.
+
 
 ## Documentation
 For detailed documentation, please refer to the PDF below:
